@@ -2,4 +2,5 @@ main: me.RG2N.RGCore.Main
 name: RGCore
 version: 1.0
 author: RG2N
+api-version: 1.17
 
